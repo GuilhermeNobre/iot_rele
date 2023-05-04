@@ -1,2 +1,2 @@
 # iot_rele
-Projeto de controle módulo relê usando uma ESP32 e podendo utilizar LCD de um M5Stack
+Um projeto foca em ativar ou desativar pinos de módulos rele usando uma ESP32 
